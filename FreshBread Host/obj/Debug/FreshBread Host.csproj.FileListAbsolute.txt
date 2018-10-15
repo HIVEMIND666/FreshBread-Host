@@ -1,0 +1,14 @@
+C:\Users\Max Calhoun\source\repos\FreshBread Host\FreshBread Host\obj\Debug\FreshBread Host.csprojAssemblyReference.cache
+C:\Users\Max Calhoun\source\repos\FreshBread Host\FreshBread Host\obj\Debug\FreshBread Host.csproj.CoreCompileInputs.cache
+C:\Users\Max Calhoun\source\repos\FreshBread Host\FreshBread Host\bin\Debug\FreshBread Host.exe.config
+C:\Users\Max Calhoun\source\repos\FreshBread Host\FreshBread Host\bin\Debug\FreshBread Host.exe
+C:\Users\Max Calhoun\source\repos\FreshBread Host\FreshBread Host\bin\Debug\FreshBread Host.pdb
+C:\Users\Max Calhoun\source\repos\FreshBread Host\FreshBread Host\obj\Debug\FreshBread Host.exe
+C:\Users\Max Calhoun\source\repos\FreshBread Host\FreshBread Host\obj\Debug\FreshBread Host.pdb
+C:\Users\Max Calhoun\source\repos\FreshBread Host\FreshBread Host\obj\Debug\FreshBread_Host.Main.resources
+C:\Users\Max Calhoun\source\repos\FreshBread Host\FreshBread Host\obj\Debug\FreshBread Host.csproj.GenerateResource.cache
+C:\Users\Max Calhoun\source\repos\FreshBread Host\FreshBread Host\obj\Debug\FreshBread_Host.MessageBoxDesigner.resources
+C:\Users\Max Calhoun\source\repos\FreshBread Host\FreshBread Host\obj\Debug\FreshBread_Host.FileExplorer.resources
+C:\Users\Max Calhoun\source\repos\FreshBread Host\FreshBread Host\obj\Debug\FreshBread_Host.CMD.resources
+C:\Users\Max Calhoun\source\repos\FreshBread Host\FreshBread Host\obj\Debug\FreshBread_Host.Builder.resources
+C:\Users\Max Calhoun\source\repos\FreshBread Host\FreshBread Host\obj\Debug\FreshBread_Host.TaskManager.resources
